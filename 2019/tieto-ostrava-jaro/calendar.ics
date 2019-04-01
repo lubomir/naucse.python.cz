@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190326T140000Z
+DTEND:20190326T153000Z
+SUMMARY:Seznamy a N-tice (Lists and Tupples)
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/lists-and-tupples/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190404T130000Z
+DTEND:20190404T143000Z
+SUMMARY:Podmínky a smyčky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/conditionals-loops/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190416T130000Z
+DTEND:20190416T143000Z
+SUMMARY:Moduly\, balíly a další
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/modules-and-stuff/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190402T130000Z
+DTEND:20190402T143000Z
+SUMMARY:Slovníky (Dictionaries)
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/dictionaries/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190409T130000Z
+DTEND:20190409T143000Z
+SUMMARY:Abstrakce - Funkce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/abstraction-functions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190423T130000Z
+DTEND:20190423T143000Z
+SUMMARY:Testování
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/testing/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190320T140000Z
+DTEND:20190320T153000Z
+SUMMARY:Instalace
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/install/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190425T130000Z
+DTEND:20190425T143000Z
+SUMMARY:Síťové programování
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/network-programming/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190430T130000Z
+DTEND:20190430T143000Z
+SUMMARY:Regulární výrazy\, logování\, balíky\, Fabric
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/regular-expressions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190502T130000Z
+DTEND:20190502T143000Z
+SUMMARY:Working with databasis\, JSON and Yaml
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/databasis-json-yaml/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190328T140000Z
+DTEND:20190328T153000Z
+SUMMARY:Práce s řetězci (Working with Strings)
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/strings/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190418T130000Z
+DTEND:20190418T143000Z
+SUMMARY:Soubory a výjimky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/files-and-exceptions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190401T151250Z
+DTSTART:20190411T130000Z
+DTEND:20190411T143000Z
+SUMMARY:Abstrakce - Třídy
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/tieto-ostrava-jaro/sessions/abstraction-classes/
+END:VEVENT
+END:VCALENDAR
