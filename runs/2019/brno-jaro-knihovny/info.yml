@@ -32,6 +32,7 @@ plan:
   - lesson: fast-track/http
   - lesson: intro/requests
   - lesson: intro/click
+  - lesson: advanced/requests
   #- title: Zadání úkolu
   #  url: https://github.com/encukou/MI-PYT/blob/pyknihovny-2018/tutorials/01_requests_click.md#%C3%9Akol
 
